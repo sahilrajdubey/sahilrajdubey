@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at SRMIST delhi NCR
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ; linkdin:
-- 😄 Pronouns: beeeeep
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing like that
 
 <!---
