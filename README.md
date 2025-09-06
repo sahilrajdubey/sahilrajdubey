@@ -26,7 +26,7 @@ const Sahil = {
   funFact: "I debug more than I code 😅"
 };
 
-
+```
 🛠️ Tech Stack  
 
 <p align="center">
