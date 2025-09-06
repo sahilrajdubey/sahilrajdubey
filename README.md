@@ -41,9 +41,7 @@ const Sahil = {
 
 };
 ```
----
 
-## ⚡ Tech Stack Arsenal
 
 <div align="center">
 
