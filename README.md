@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sahil+Raj+Dubey+👋;Self-Taught+Developer+💻;Web+%7C+Data+%7C+Open+Source+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sahil+Raj+Dubey+👋;Python+|+Full-stack+Developer+💻;Web+%7C+Data+%7C+Open+Source+🚀)](https://git.io/typing-svg)
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" width="600"/>
 
