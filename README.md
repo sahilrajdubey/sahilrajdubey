@@ -17,15 +17,35 @@
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
 
 ```js
+// 🌟 About Me - Sahil Raj Dubey
 const Sahil = {
-  name: "Sahil Raj Dubey",
-  role: "Developer 💻",
-  location: "India 🌏",
-  interests: ["Web Development 🌐", "Data Science 📊", "Open Source 🚀"],
-  currentlyLearning: ["System Design 🏗️", "Machine Learning 🤖"],
-  funFact: "I debug more than I code 😅"
-};
+  fullName: "Sahil Raj Dubey",
+  title: "Full-Stack Developer | Data Enthusiast  | Open Source Contributor ",
+  location: "India ",
+  tagline: "Turning ideas into scalable digital solutions",
+  
+  skills: {
+    frontend: ["React.js ⚛️", "Next.js 🖥️", "Tailwind CSS 🎨"],
+    backend: ["Node.js 🟢", "FastAPI ⚡", "Python 🐍"],
+    databases: ["MySQL 🗄️", "MongoDB 🍃"],
+    tools: ["Git & GitHub 🧰", "Docker 🐳", "Linux 🖥️"]
+  },
 
+  interests: [
+    "Web Development 🌐",
+    "Data Science & Analytics 📊",
+    "Machine Learning & AI 🤖",
+    "Open Source Contribution 🚀",
+    "Building Scalable Systems 🏗️"
+  ],
+
+  currentFocus: [
+    "Advanced System Design 🏗️",
+    "Machine Learning & Deep Learning 🤖",
+    "Optimized Full-Stack Architectures ⚡"
+  ],
+
+};
 ```
 🛠️ Tech Stack  
 
