@@ -78,14 +78,11 @@ const Sahil = {
 
 <div align="center">
 
- <!-- 👋 About Me -->
-<h2 style="color:#00F5FF;">👋 About Me</h2>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-📊 GitHub Overview Stats
-
+<!-- 📊 GitHub Overview Stats -->
+<h2 style="color:#00F5FF;">📊 GitHub Overview Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&ring_color=00f5ff&fire_color=ff6b6b" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sahilrajdubey&theme=tokyonight&background=0d1117&border=30363d&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilrajdubey&theme=tokyonight&background=0d1117&border=30363d&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" width="49%" />
+
 
 
 
