@@ -149,7 +149,7 @@ const Sahil = {
 
 <div align="center">
 
-### ⚡ Fun Fact
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+turn+coffee+into+code+☕;Debugging+is+like+being+a+detective+🔍;I+speak+fluent+JavaScript+and+Python+🐍" alt="Fun Facts" />
 
 </div>
