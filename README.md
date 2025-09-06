@@ -57,25 +57,36 @@ const Sahil = {
 
 <!-- Alternative Markdown Version (Fallback) -->
 
-### 🔥 Primary Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,fastapi,mysql,mongodb,tailwind,typescript,git,docker&theme=dark&perline=10" />
-</p>
-
-### 💻 Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap,sass,figma&theme=dark&perline=10" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,django,mysql,mongodb,postgresql,redis,firebase&theme=dark&perline=10" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,linux,bash,nginx&theme=dark&perline=10" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="assets/react.gif" width="60" /><br/>React
+    </td>
+    <td align="center" width="120">
+      <img src="assets/node.gif" width="60" /><br/>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="assets/python.gif" width="60" /><br/>Python
+    </td>
+    <td align="center" width="120">
+      <img src="assets/mysql.gif" width="60" /><br/>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="assets/mongo.gif" width="60" /><br/>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="assets/docker.gif" width="60" /><br/>Docker
+    </td>
+    <td align="center" width="120">
+      <img src="assets/tailwind.gif" width="60" /><br/>Tailwind
+    </td>
+    <td align="center" width="120">
+      <img src="assets/git.gif" width="60" /><br/>Git
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Tech Wave -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
