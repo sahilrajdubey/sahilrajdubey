@@ -14,6 +14,17 @@
 ---
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
+ ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
+
+```js
+const Sahil = {
+  name: "Sahil Raj Dubey",
+  role: "Developer 💻",
+  location: "India 🌏",
+  interests: ["Web Development 🌐", "Data Science 📊", "Open Source 🚀"],
+  currentlyLearning: ["System Design 🏗️", "Machine Learning 🤖"],
+  funFact: "I debug more than I code 😅"
+};
 
 
 🛠️ Tech Stack  
