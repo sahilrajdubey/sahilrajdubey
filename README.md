@@ -43,38 +43,271 @@ const Sahil = {
 ```
 ---
 
-## 🎨 Skills & Technologies
+## ⚡ Tech Stack Arsenal
 
 <div align="center">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack+Arsenal;Powered+by+Innovation" alt="Tech Stack Title" />
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Animated Background Grid -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Tech Stack Container with CSS Animation -->
+<div align="center">
+  
+```html
+<div align="center">
+  <style>
+    .tech-stack-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 30px 20px;
+      background: linear-gradient(45deg, #0d1117, #161b22, #0d1117);
+      border-radius: 20px;
+      border: 2px solid #30363d;
+      margin: 20px auto;
+      box-shadow: 0 8px 32px rgba(0, 245, 255, 0.1);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .tech-stack-container::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(0, 245, 255, 0.1), transparent);
+      animation: shine 3s infinite;
+    }
+    
+    @keyframes shine {
+      0% { left: -100%; }
+      100% { left: 100%; }
+    }
+    
+    .tech-box {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 120px;
+      height: 140px;
+      background: linear-gradient(135deg, #161b22, #21262d);
+      border: 2px solid #30363d;
+      border-radius: 15px;
+      padding: 15px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+      animation: fadeInUp 0.8s ease-out forwards;
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    
+    .tech-box:nth-child(1) { animation-delay: 0.1s; }
+    .tech-box:nth-child(2) { animation-delay: 0.2s; }
+    .tech-box:nth-child(3) { animation-delay: 0.3s; }
+    .tech-box:nth-child(4) { animation-delay: 0.4s; }
+    .tech-box:nth-child(5) { animation-delay: 0.5s; }
+    .tech-box:nth-child(6) { animation-delay: 0.6s; }
+    .tech-box:nth-child(7) { animation-delay: 0.7s; }
+    .tech-box:nth-child(8) { animation-delay: 0.8s; }
+    .tech-box:nth-child(9) { animation-delay: 0.9s; }
+    .tech-box:nth-child(10) { animation-delay: 1.0s; }
+    
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .tech-box:hover {
+      transform: translateY(-10px) scale(1.05);
+      border-color: #00f5ff;
+      box-shadow: 0 15px 35px rgba(0, 245, 255, 0.3);
+      background: linear-gradient(135deg, #1a1f2e, #2d3748);
+    }
+    
+    .tech-box::before {
+      content: '';
+      position: absolute;
+      top: -2px;
+      left: -2px;
+      right: -2px;
+      bottom: -2px;
+      background: linear-gradient(45deg, #00f5ff, #ff6b6b, #9945ff, #00f5ff);
+      border-radius: 15px;
+      z-index: -1;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    
+    .tech-box:hover::before {
+      opacity: 1;
+    }
+    
+    .tech-logo {
+      width: 60px;
+      height: 60px;
+      margin-bottom: 10px;
+      transition: all 0.3s ease;
+      filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.1));
+    }
+    
+    .tech-box:hover .tech-logo {
+      transform: scale(1.1) rotate(5deg);
+      filter: drop-shadow(0 0 15px rgba(0, 245, 255, 0.5));
+    }
+    
+    .tech-name {
+      font-family: 'Orbitron', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      color: #c9d1d9;
+      text-align: center;
+      letter-spacing: 0.5px;
+      transition: color 0.3s ease;
+    }
+    
+    .tech-box:hover .tech-name {
+      color: #00f5ff;
+    }
+  </style>
+  
+  <div class="tech-stack-container">
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+      <span class="tech-name">React</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+      <span class="tech-name">Node.js</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+      <span class="tech-name">Python</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" />
+      <span class="tech-name">FastAPI</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
+      <span class="tech-name">MySQL</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+      <span class="tech-name">MongoDB</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
+      <span class="tech-name">Tailwind</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
+      <span class="tech-name">TypeScript</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
+      <span class="tech-name">Git</span>
+    </div>
+    
+    <div class="tech-box">
+      <img class="tech-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+      <span class="tech-name">Docker</span>
+    </div>
+  </div>
+</div>
+```
 
 </div>
+
+<!-- Alternative Markdown Version (Fallback) -->
+
+### 🔥 Primary Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,fastapi,mysql,mongodb,tailwind,typescript,git,docker&theme=dark&perline=10" />
+</p>
+
+### 💻 Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap,sass,figma&theme=dark&perline=10" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,django,mysql,mongodb,postgresql,redis,firebase&theme=dark&perline=10" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,linux,bash,nginx&theme=dark&perline=10" />
+</p>
+
+<!-- Animated Tech Wave -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
+<!-- Tech Stats Cards -->
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+</div>
+
+<!-- Proficiency Levels -->
+<div align="center">
+
+### 📊 Proficiency Levels
+
+| Technology | Proficiency | Years of Experience |
+|:----------:|:-----------:|:------------------:|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ years |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | 4+ years |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ⭐⭐⭐⭐ | 2+ years |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ | 3+ years |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ⭐⭐⭐⭐ | 2+ years |
+| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ | 2+ years |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | 2+ years |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ⭐⭐⭐ | 1+ years |
+
+</div>
+
+<!-- Development Journey -->
+<div align="center">
+
+### 🚀 Development Journey
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Started+with+Python+%26+Web+Development;Mastered+React+%26+Modern+Frontend;Expert+in+Full-Stack+Development;Always+Learning+New+Technologies;Building+Scalable+Applications" alt="Development Journey" />
+
+</div>
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <div align="center">
 <hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
