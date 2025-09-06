@@ -24,24 +24,18 @@ const Sahil = {
   location: "India ",
   tagline: "Turning ideas into scalable digital solutions",
   
-  skills: {
-    frontend: ["React.js ⚛️", "Next.js 🖥️", "Tailwind CSS 🎨"],
-    backend: ["Node.js 🟢", "FastAPI ⚡", "Python 🐍"],
-    databases: ["MySQL 🗄️", "MongoDB 🍃"],
-    tools: ["Git & GitHub 🧰", "Docker 🐳", "Linux 🖥️"]
-  },
-
+  
   interests: [
-    "Web Development 🌐",
-    "Data Science & Analytics 📊",
-    "Machine Learning & AI 🤖",
-    "Open Source Contribution 🚀",
-    "Building Scalable Systems 🏗️"
+    "Web Development ",
+    "Data Science & Analytics ",
+    "Machine Learning & AI ",
+    "Open Source Contribution ",
+    "Building Scalable Systems "
   ],
 
   currentFocus: [
-    "Advanced System Design 🏗️",
-    "Machine Learning & Deep Learning 🤖",
+    "Advanced System Design ",
+    "Machine Learning & Deep Learning ",
     "Optimized Full-Stack Architectures ⚡"
   ],
 
