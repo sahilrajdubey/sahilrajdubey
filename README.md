@@ -57,177 +57,68 @@ const Sahil = {
 
 <!-- Alternative Markdown Version (Fallback) -->
 
-🚀 Primary Stack
 <div align="center">
 <table>
 <tr>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="React"/>
-<br/><sub><b>React</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60" alt="Node.js"/>
-<br/><sub><b>Node.js</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60" alt="Python"/>
-<br/><sub><b>Python</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/fastapi.png?raw=true" width="60" height="60" alt="FastAPI"/>
-<br/><sub><b>FastAPI</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="60" height="60" alt="MySQL"/>
-<br/><sub><b>MySQL</b></sub>
-</div>
-</td>
-</tr>
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
-<br/><sub><b>MongoDB</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4d75-8119-c5b7d581a35f.gif" width="60" height="60" alt="Tailwind"/>
-<br/><sub><b>Tailwind</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" height="60" alt="TypeScript"/>
-<br/><sub><b>TypeScript</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" alt="Git"/>
-<br/><sub><b>Git</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="60" height="60" alt="Docker"/>
-<br/><sub><b>Docker</b></sub>
-</div>
-</td>
-</tr>
-</table>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-🎨 Frontend Development
-<div align="center">
-<table>
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="60" height="60" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
 <br/><sub><b>HTML5</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
 <br/><sub><b>CSS3</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
 <br/><sub><b>JavaScript</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
 <br/><sub><b>React</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/nextjs.png?raw=true" width="60" height="60" alt="Next.js"/>
-<br/><sub><b>Next.js</b></sub>
-</div>
-</td>
-</tr>
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4d75-8119-c5b7d581a35f.gif" width="60" height="60" alt="Vue.js"/>
-<br/><sub><b>Vue.js</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4d75-8119-c5b7d581a35f.gif" width="60" height="60" alt="Tailwind"/>
-<br/><sub><b>Tailwind</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png?raw=true" width="60" height="60" alt="Bootstrap"/>
-<br/><sub><b>Bootstrap</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/sass.png?raw=true" width="60" height="60" alt="Sass"/>
-<br/><sub><b>Sass</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/figma.png?raw=true" width="60" height="60" alt="Figma"/>
-<br/><sub><b>Figma</b></sub>
-</div>
-</td>
-</tr>
-</table>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-⚙️ Backend & Database
-<div align="center">
-<table>
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
 <br/><sub><b>Node.js</b></sub>
 </div>
 </td>
+</tr>
+<tr>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60" alt="Python"/>
-<br/><sub><b>Python</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
+<br/><sub><b>Next.js</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/fastapi.png?raw=true" width="60" height="60" alt="FastAPI"/>
-<br/><sub><b>FastAPI</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/express.png?raw=true" width="60" height="60" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
 <br/><sub><b>Express</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/django.png?raw=true" width="60" height="60" alt="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+<br/><sub><b>Python</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="60" height="60" alt="FastAPI"/>
+<br/><sub><b>FastAPI</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="60" height="60" alt="Django"/>
 <br/><sub><b>Django</b></sub>
 </div>
 </td>
@@ -235,38 +126,31 @@ const Sahil = {
 <tr>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="60" height="60" alt="MySQL"/>
-<br/><sub><b>MySQL</b></sub>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
+<br/><sub><b>Git</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
-<br/><sub><b>MongoDB</b></sub>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="60" alt="GitHub"/>
+<br/><sub><b>GitHub</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png?raw=true" width="60" height="60" alt="PostgreSQL"/>
-<br/><sub><b>PostgreSQL</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+<br/><sub><b>Linux</b></sub>
 </div>
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redis.png?raw=true" width="60" height="60" alt="Redis"/>
-<br/><sub><b>Redis</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="60" height="60" alt="Firebase"/>
-<br/><sub><b>Firebase</b></sub>
+<img src="https://www.svgrepo.com/show/303231/microsoft-sql-server-logo.svg" width="60" height="60" alt="Server"/>
+<br/><sub><b>Server</b></sub>
 </div>
 </td>
 </tr>
 </table>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 
