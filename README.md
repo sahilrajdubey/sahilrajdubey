@@ -1,6 +1,5 @@
-### Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F720&width=600&lines=Hey+there!+I'm+Sahil+Raj+Dubey+👋;Self-Taught+Developer+💻;Web+%7C+Data+%7C+Open+Source+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F720&width=600&lines=Hey+there!+I'm+Sahil+Raj+Dubey+👋;Python Developer+💻;Web+%7C+Data+%7C+Open+Source+🚀)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/1ZvVkDc.gif" alt="coding gif" width="600"/>
 
