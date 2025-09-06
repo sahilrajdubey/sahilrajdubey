@@ -83,26 +83,53 @@ const Sahil = {
 </p>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Stats
 
-### 📊 GitHub Overview
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false&show_owner=true)
+<!-- 🌟 About Me Animated Typing -->
+<p align="center">
+  <img src="https://github.com/sahilrajdubey/awesome-github-stats/raw/main/typing-aboutme.gif" alt="Typing About Me" width="800"/>
+</p>
 
-### 🖌 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=compact&theme=radical&hide=html)
+<!-- 📊 GitHub Overview Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_title=false&show_owner=true&border_radius=20&text_color=FFFFFF&icon_color=00ffcc&bg_color=0d0d0d" alt="Sahil's GitHub Stats" width="800"/>
+</p>
 
-### ✨ Contribution Graph
-![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahilrajdubey&theme=react-dark&area=true&hide_border=false)
+<!-- 🖌 Top Languages Gradient Bars -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=compact&theme=dracula&border_radius=20&text_color=FFFFFF&bg_color=0d0d0d&hide=html" alt="Top Languages" width="600"/>
+</p>
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahilrajdubey&theme=radical&row=1&column=7)
+<!-- ✨ Animated Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/sahilrajdubey/awesome-github-stats/raw/main/animated-graph.gif" alt="Animated Contribution Graph" width="800"/>
+</p>
 
-### ⏱️ WakaTime Stats (Coding Time)
-![Sahil's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahilrajdubey&theme=radical)
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilrajdubey&theme=radical&row=1&column=7" alt="GitHub Trophies" width="800"/>
+</p>
 
-### 🔖 Badges & Achievements
-![GitHub Followers](https://img.shields.io/github/followers/sahilrajdubey?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/sahilrajdubey?style=social)
-![GitHub Repos](https://img.shields.io/github/repos/sahilrajdubey?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/sahilrajdubey?style=social)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sahilrajdubey?style=social)
+<!-- ⏱️ WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sahilrajdubey&theme=dracula&border_radius=20&bg_color=0d0d0d&text_color=FFFFFF" alt="WakaTime Stats" width="800"/>
+</p>
+
+<!-- 🔖 Followers, Stars, Repos, Issues, PRs Badges -->
+<p align="center">
+  <a href="https://github.com/sahilrajdubey?tab=followers">
+    <img src="https://img.shields.io/github/followers/sahilrajdubey?style=social&labelColor=0d0d0d&color=00ffcc" alt="Followers"/>
+  </a>
+  <a href="https://github.com/sahilrajdubey?tab=stars">
+    <img src="https://img.shields.io/github/stars/sahilrajdubey?style=social&labelColor=0d0d0d&color=00ffcc" alt="Stars"/>
+  </a>
+  <a href="https://github.com/sahilrajdubey?tab=repositories">
+    <img src="https://img.shields.io/github/repos/sahilrajdubey?style=social&labelColor=0d0d0d&color=00ffcc" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/sahilrajdubey?tab=issues">
+    <img src="https://img.shields.io/github/issues/sahilrajdubey?style=social&labelColor=0d0d0d&color=00ffcc" alt="Issues"/>
+  </a>
+  <a href="https://github.com/sahilrajdubey?tab=pulls">
+    <img src="https://img.shields.io/github/issues-pr/sahilrajdubey?style=social&labelColor=0d0d0d&color=00ffcc" alt="Pull Requests"/>
+  </a>
+</p>
 
 
