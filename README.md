@@ -81,8 +81,28 @@ const Sahil = {
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </p>
-📊 GitHub Stats  
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=compact&theme=radical)  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Stats
+
+### 📊 GitHub Overview
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false&show_owner=true)
+
+### 🖌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=compact&theme=radical&hide=html)
+
+### ✨ Contribution Graph
+![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahilrajdubey&theme=react-dark&area=true&hide_border=false)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sahilrajdubey&theme=radical&row=1&column=7)
+
+### ⏱️ WakaTime Stats (Coding Time)
+![Sahil's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sahilrajdubey&theme=radical)
+
+### 🔖 Badges & Achievements
+![GitHub Followers](https://img.shields.io/github/followers/sahilrajdubey?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/sahilrajdubey?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/sahilrajdubey?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/sahilrajdubey?style=social)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sahilrajdubey?style=social)
 
 
