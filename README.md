@@ -90,7 +90,7 @@ const Sahil = {
 ## 💻 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=donut&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false" alt="Top Languages" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&langs_count=8" alt="Top Languages Detailed" width="55%" />
+
 
 ---
 
