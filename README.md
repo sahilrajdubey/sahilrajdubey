@@ -45,8 +45,10 @@ const Sahil = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack+Arsenal;Powered+by+Innovation" alt="Tech Stack Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack+Arsenal;" alt="Tech Stack Title" />
 
 <!-- Animated Background Grid -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
