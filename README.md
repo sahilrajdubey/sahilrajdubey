@@ -77,12 +77,11 @@ const Sahil = {
 </div>
 
 <div align="center">
-  
 <hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
-<!-- 📊 GitHub Overview Stats -->
+
 <h2 style="color:#00F5FF;">📊 GitHub Overview Stats</h2>
 
-<hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
+<img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&ring_color=00f5ff&fire_color=ff6b6b" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&ring_color=00f5ff&fire_color=ff6b6b" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilrajdubey&theme=tokyonight&background=0d1117&border=30363d&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" width="49%" />
 
