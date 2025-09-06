@@ -7,13 +7,18 @@
 </div>
 
 💡 About Me  
-- 🌱 Currently learning **Data Science + Full Stack Development**    
-- 🛠️ Love building projects that help students (like Smart Study Planner)  
-- 🎸 Fun fact: I sing and play guitar 🎶  
+<h2 align="center">Hey there 👋, I'm Sahil Raj Dubey</h2>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2c/8d/20/2c8d2094a13cf5b19a6b1e3dd8f41f46.gif" width="600"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
+
+
+🛠️ Tech Stack  
 
 <p align="center">
   <!-- Languages -->
