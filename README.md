@@ -134,7 +134,8 @@ const Sahil = {
 <tr>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="60" height="60" alt="HTML"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" height="60" alt="HTML"/>
+<img src= width="60" height="60" alt="HTML"/>
 <br/><sub><b>HTML5</b></sub>
 </div>
 </td>
