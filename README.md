@@ -58,18 +58,75 @@ const Sahil = {
 <!-- Alternative Markdown Version (Fallback) -->
 
 ### 🔥 Primary Stack
-<p align="center">
-  <img src="assets/react.gif" width="60" />
-  <img src="assets/node.gif" width="60" />
-  <img src="assets/python.gif" width="60" />
-  <img src="assets/fastapi.gif" width="60" />
-  <img src="assets/mysql.gif" width="60" />
-  <img src="assets/mongo.gif" width="60" />
-  <img src="assets/tailwind.gif" width="60" />
-  <img src="assets/typescript.gif" width="60" />
-  <img src="assets/git.gif" width="60" />
-  <img src="assets/docker.gif" width="60" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60" alt="React"/>
+<br/><sub><b>React</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60" alt="Node.js"/>
+<br/><sub><b>Node.js</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60" alt="Python"/>
+<br/><sub><b>Python</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="60" height="60" alt="FastAPI"/>
+<br/><sub><b>FastAPI</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+<br/><sub><b>MySQL</b></sub>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
+<br/><sub><b>MongoDB</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
+<br/><sub><b>Tailwind</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" height="60" alt="TypeScript"/>
+<br/><sub><b>TypeScript</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" alt="Git"/>
+<br/><sub><b>Git</b></sub>
+</div>
+</td>
+<td align="center" width="120" height="120">
+<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="60" height="60" alt="Docker"/>
+<br/><sub><b>Docker</b></sub>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 ### 💻 Frontend Technologies
 <p align="center">
