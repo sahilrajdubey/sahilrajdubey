@@ -57,36 +57,61 @@ const Sahil = {
 
 <!-- Alternative Markdown Version (Fallback) -->
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="assets/react.gif" width="60" /><br/>React
-    </td>
-    <td align="center" width="120">
-      <img src="assets/node.gif" width="60" /><br/>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="assets/python.gif" width="60" /><br/>Python
-    </td>
-    <td align="center" width="120">
-      <img src="assets/mysql.gif" width="60" /><br/>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="assets/mongo.gif" width="60" /><br/>MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="assets/docker.gif" width="60" /><br/>Docker
-    </td>
-    <td align="center" width="120">
-      <img src="assets/tailwind.gif" width="60" /><br/>Tailwind
-    </td>
-    <td align="center" width="120">
-      <img src="assets/git.gif" width="60" /><br/>Git
-    </td>
-  </tr>
-</table>
+### 🔥 Primary Stack
+<p align="center">
+  <img src="assets/react.gif" width="60" />
+  <img src="assets/node.gif" width="60" />
+  <img src="assets/python.gif" width="60" />
+  <img src="assets/fastapi.gif" width="60" />
+  <img src="assets/mysql.gif" width="60" />
+  <img src="assets/mongo.gif" width="60" />
+  <img src="assets/tailwind.gif" width="60" />
+  <img src="assets/typescript.gif" width="60" />
+  <img src="assets/git.gif" width="60" />
+  <img src="assets/docker.gif" width="60" />
+</p>
+
+### 💻 Frontend Technologies
+<p align="center">
+  <img src="assets/html.gif" width="60" />
+  <img src="assets/css.gif" width="60" />
+  <img src="assets/js.gif" width="60" />
+  <img src="assets/react.gif" width="60" />
+  <img src="assets/next.gif" width="60" />
+  <img src="assets/vue.gif" width="60" />
+  <img src="assets/tailwind.gif" width="60" />
+  <img src="assets/bootstrap.gif" width="60" />
+  <img src="assets/sass.gif" width="60" />
+  <img src="assets/figma.gif" width="60" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="assets/node.gif" width="60" />
+  <img src="assets/python.gif" width="60" />
+  <img src="assets/fastapi.gif" width="60" />
+  <img src="assets/express.gif" width="60" />
+  <img src="assets/django.gif" width="60" />
+  <img src="assets/mysql.gif" width="60" />
+  <img src="assets/mongo.gif" width="60" />
+  <img src="assets/postgres.gif" width="60" />
+  <img src="assets/redis.gif" width="60" />
+  <img src="assets/firebase.gif" width="60" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="assets/git.gif" width="60" />
+  <img src="assets/github.gif" width="60" />
+  <img src="assets/docker.gif" width="60" />
+  <img src="assets/aws.gif" width="60" />
+  <img src="assets/gcp.gif" width="60" />
+  <img src="assets/vscode.gif" width="60" />
+  <img src="assets/postman.gif" width="60" />
+  <img src="assets/linux.gif" width="60" />
+  <img src="assets/bash.gif" width="60" />
+  <img src="assets/nginx.gif" width="60" />
+</p>
 
 <!-- Animated Tech Wave -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
