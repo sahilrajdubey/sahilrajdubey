@@ -77,7 +77,8 @@ const Sahil = {
 </div>
 
 <div align="center">
-
+  
+ <hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
 <!-- 📊 GitHub Overview Stats -->
 <h2 style="color:#00F5FF;">📊 GitHub Overview Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&ring_color=00f5ff&fire_color=ff6b6b" alt="GitHub Stats" width="49%" />
