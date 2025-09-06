@@ -144,7 +144,7 @@ const Sahil = {
 </td>
 <td align="center" width="120" height="120">
 <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://www.svgrepo.com/show/303231/microsoft-sql-server-logo.svg" width="60" height="60" alt="Server"/>
+<img src="https://pngtree.com/freepng/vector-servers-icon_3773057.html" width="60" height="60" alt="Server"/>
 <br/><sub><b>Server</b></sub>
 </div>
 </td>
