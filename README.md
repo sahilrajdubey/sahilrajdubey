@@ -84,6 +84,8 @@ const Sahil = {
 <img src="https://github-readme-stats.vercel.app/api?username=sahilrajdubey&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&ring_color=00f5ff&fire_color=ff6b6b" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilrajdubey&theme=tokyonight&background=0d1117&border=30363d&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" width="49%" />
 
+</div>
+
 ## 💻 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=donut&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false" alt="Top Languages" width="40%" />
@@ -114,14 +116,6 @@ const Sahil = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilrajdubey&theme=tokyonight" alt="Stats" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilrajdubey&theme=tokyonight&utc_offset=5.5" alt="Productive Time" width="49%" />
-
----
-
-## ⏰ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sahilrajdubey&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false&layout=compact" alt="WakaTime Stats" width="100%" />
-<!--END_SECTION:waka-->
 
 ---
 
