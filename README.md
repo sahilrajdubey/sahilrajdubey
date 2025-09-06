@@ -197,48 +197,7 @@ const Sahil = {
 </tr>
 
 
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4d75-8119-c5b7d581a35f.gif" width="60" height="60" alt="Vue.js"/>
-<br/><sub><b>Vue.js</b></sub>
-</div>
-</td>
 
-  
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
-<br/><sub><b>Tailwind</b></sub>
-</div>
-</td>
-
-
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60" height="60" alt="Bootstrap"/>
-<br/><sub><b>Bootstrap</b></sub>
-</div>
-</td>
-
-
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60" height="60" alt="Sass"/>
-<br/><sub><b>Sass</b></sub>
-</div>
-</td>
-
-
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60" alt="Figma"/>
-<br/><sub><b>Figma</b></sub>
-</div>
-</td>
-</tr>
-</table>
-</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 ### ⚙️ Backend & Database
