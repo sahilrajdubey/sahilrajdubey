@@ -6,8 +6,6 @@
 
 </div>
 
-💡 About Me  
-<h2 align="center">Hey there 👋, I'm Sahil Raj Dubey</h2>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/2c/8d/20/2c8d2094a13cf5b19a6b1e3dd8f41f46.gif" width="600"/>
