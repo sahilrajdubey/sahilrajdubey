@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sahil+Raj+Dubey+👋;Python+|+Full-stack+Developer+💻;Web+%7C+Data+%7C+Open+Source+🚀)](https://git.io/typing-svg)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer gif" width="600"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdid2J1bmtlcnpwNXNkZ21naWMxb3NtamV0dDMzdDZ0MjZyNTZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="developer gif" width="600"/>
 
 </div>
 
@@ -11,13 +11,13 @@
   <img src="https://i.pinimg.com/originals/2c/8d/20/2c8d2094a13cf5b19a6b1e3dd8f41f46.gif" width="600"/>
 </p>
 
----
+
 
 
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me  
 
 ```js
-// 🌟 About Me - Sahil Raj Dubey
+
 const Sahil = {
   fullName: "Sahil Raj Dubey",
   title: "Full-Stack Developer | Data Enthusiast  | Open Source Contributor ",
@@ -57,182 +57,95 @@ const Sahil = {
 
 <!-- Alternative Markdown Version (Fallback) -->
 
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
-<br/><sub><b>HTML5</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+<br>Python
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
-<br/><sub><b>CSS3</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+<br>JavaScript
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-<br/><sub><b>JavaScript</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+<br>TypeScript
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React"/>
-<br/><sub><b>React</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+<br>React
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
-<br/><sub><b>Node.js</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="48" height="48" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="icon" width="48" height="48" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+<br>MySQL
 </td>
 </tr>
 <tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
-<br/><sub><b>Next.js</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="48" height="48" />
+<br>MongoDB
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
-<br/><sub><b>Express</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
+<br>Firebase
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-<br/><sub><b>Python</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" alt="icon" width="48" height="48" />
+<br>Postman
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="60" height="60" alt="FastAPI"/>
-<br/><sub><b>FastAPI</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+<br>AWS
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="60" height="60" alt="Django"/>
-<br/><sub><b>Django</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
+<br>Tailwind
 </td>
-</tr>
-<tr>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
-<br/><sub><b>Git</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="48" height="48" />
+<br>GraphQL
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="60" alt="GitHub"/>
-<br/><sub><b>GitHub</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+<br>GitHub
 </td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
-<br/><sub><b>Linux</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" width="60" height="60" alt="Linux"/>
-<br/><sub><b>TensorFlow</b></sub>
-</div>
-</td>
-<td align="center" width="120" height="120">
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.2); padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-<img src="https://www.svgrepo.com/show/499814/server.svg" width="60" height="60" alt="Server"/>
-<br/><sub><b>Server</b></sub>
-</div>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48" />
+<br>Git
 </td>
 </tr>
 </table>
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 
-<!-- Development Journey -->
 <div align="center">
-
-### 🚀 Development Journey
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Started+with+Python+%26+Web+Development;Mastered+React+%26+Modern+Frontend;Expert+in+Full-Stack+Development;Always+Learning+New+Technologies;Building+Scalable+Applications" alt="Development Journey" />
 
 </div>
 
-<!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<div align="center">
-<hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
-
-<h2 style="color:#00F5FF;">📊 GitHub Overview Stats</h2>
-
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilrajdubey&theme=tokyonight&background=0d1117&border=30363d&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" alt="GitHub Streak" width="49%" />
- 
-<hr style="border:1px solid #00F5FF; width:60%; margin:20px auto;" />
-
-
-
-## 💻 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajdubey&layout=donut&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&border_radius=15&hide_border=false" alt="Top Languages" width="40%" />
-
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahilrajdubey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Stars,Followers" alt="GitHub Trophies" />
-
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrajdubey&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff6b6b&area=true&hide_border=false&border_radius=15&height=300" alt="Contribution Graph" width="100%" />
 
----
 
-## ⚡ GitHub Activity Stats
+ 
+ ## Connect with Me
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilrajdubey&theme=tokyonight" alt="Profile Summary" width="100%" />
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilrajdubey&theme=tokyonight" alt="Repos per Language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilrajdubey&theme=tokyonight" alt="Most Commit Language" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilrajdubey&theme=tokyonight" alt="Stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilrajdubey&theme=tokyonight&utc_offset=5.5" alt="Productive Time" width="49%" />
-
----
-
-## 🎯 Achievement Badges
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sahilrajdubey&style=for-the-badge&color=00f5ff&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/sahilrajdubey?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/sahilrajdubey?style=for-the-badge&logo=github&color=ff6b6b&labelColor=0d1117)
-
-![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=9945ff&labelColor=0d1117&label=Repositories&query=public_repos&url=https://api.github.com/users/sahilrajdubey)
-![Years Active](https://img.shields.io/badge/Years%20Active-2024-00f5ff?style=for-the-badge&logo=github&labelColor=0d1117)
-![Open Source Love](https://img.shields.io/badge/Open%20Source-Love-ff6b6b?style=for-the-badge&logo=open-source-initiative&labelColor=0d1117)
-
-</div>
-
-
-## 📫 Connect with Me
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="12" />
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-raj-d-181600319/)
@@ -241,7 +154,7 @@ const Sahil = {
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -250,7 +163,7 @@ const Sahil = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <div align="center">
 
